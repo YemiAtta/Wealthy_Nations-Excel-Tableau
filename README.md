@@ -10,4 +10,7 @@ This assignment was very beneficial as I got to show off some of the new technic
 
 Due to my client being colour blind, keeping his/her needs in mind when presenting my report was a little challenging. This was due to finding the appropriate colours to display in my graphs/charts to meet the clients needs. Luckily, Tableau has built in colour schemes that are colour-blind-friendly. Overall, the assignment was engaging and intuitive.
 
+[Link to my dashboard](https://public.tableau.com/app/profile/opeyemi.atta/viz/DataVisualisationAssignment1_17101107966830/Top20VisualReport)
+
+
 Yemi Atta
